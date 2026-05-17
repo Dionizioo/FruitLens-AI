@@ -44,3 +44,5 @@ Inferência em tempo real utilizando webcam com painel nutricional integrado.
 ## Autor
 
 Estudante de Ciência da Computação apaixonado por Inteligência Artificial, Visão Computacional e desenvolvimento de software.
+
+<img src="https://github.com/Dionizioo/FruitLens-AI/blob/main/Exemplo.jpeg">
